@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jaiyeoribe001/first%20java%20pipeline/_apis/build/status%2Folubamise.pipelines-dotnet-core%20(3)?branchName=master)](https://dev.azure.com/jaiyeoribe001/first%20java%20pipeline/_build/latest?definitionId=3&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
